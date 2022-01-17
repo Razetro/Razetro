@@ -3,9 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=razetro.razetro)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-## 🎶 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcsv2krcbumn2isttz3hm47y5i&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -70,3 +67,6 @@ class About extends Me
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Highlight Projects
+
+## 🎶 Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcsv2krcbumn2isttz3hm47y5i&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
