@@ -76,5 +76,8 @@ class About extends Me
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=razetro&repo=Razetro" />
 </a
 
+    
+    
+    
 ## 🎶 Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcsv2krcbumn2isttz3hm47y5i&cover_image=true&theme=natemoo-re&bar_color=1ed760&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
