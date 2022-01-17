@@ -67,8 +67,6 @@ class About extends Me
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Highlight Projects
-- [x] https://github.com/razetro/razetro
-- [ ] https://github.com/razetro/bindyourserver
 <a href="https://github.com/Razetro/BindYourServer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=razetro&repo=BindYourServer" />
 </a>
