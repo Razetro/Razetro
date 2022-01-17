@@ -72,3 +72,10 @@ class About extends Me
 
 ## 🎶 Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcsv2krcbumn2isttz3hm47y5i&cover_image=true&theme=natemoo-re&bar_color=1ed760&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a
