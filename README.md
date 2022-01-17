@@ -45,6 +45,10 @@ class About extends Me
         return [
             Php::class,
             Javascript::class,
+            Python::class,
+            C#::class,
+            HTML::class,
+            CSS::class,
         ];
     }
 
