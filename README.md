@@ -60,6 +60,7 @@ class About extends Me
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
