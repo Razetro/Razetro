@@ -70,10 +70,10 @@ class About extends Me
 - [x] https://github.com/razetro/razetro
 - [ ] https://github.com/razetro/bindyourserver
 <a href="https://github.com/Razetro/BindYourServer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=razetro&repo=BindYourServer" />
+  <img align="center" style="background-color:#23272A" src="https://github-readme-stats.vercel.app/api/pin/?username=razetro&repo=BindYourServer" />
 </a>
 <a href="https://github.com/Razetro/Razetro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=razetro&repo=Razetro" />
+  <img align="center" style="background-color:#23272A" src="https://github-readme-stats.vercel.app/api/pin/?username=razetro&repo=Razetro" />
 </a>
 
 ## 🎶 Spotify
