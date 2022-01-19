@@ -82,5 +82,14 @@ class About extends Me
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=razetro&repo=Razetro" />
 </a>
 
+<a href="https://github.com/Razetro/Framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Framework&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Razetro/Razetro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Razetro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+
 ## 🎶 Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcsv2krcbumn2isttz3hm47y5i&cover_image=true&theme=natemoo-re&bar_color=1ed760&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
