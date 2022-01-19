@@ -76,7 +76,7 @@ class About extends Me
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/Razetro/Rubicon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Rubicon&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Framework" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Rubicon&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rubicon" />
 </a>
 
 <a href="https://github.com/Razetro/Razetro">
