@@ -79,8 +79,8 @@ class About extends Me
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Rubicon&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rubicon" />
 </a>
 
-<a href="https://github.com/Razetro/Razetro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Razetro&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Razetro" />
+<a href="https://github.com/Razetro/ProbelmAdmin-Moderation-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=ProbelmAdmin-Moderation-Bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Razetro" />
 </a>
 
 
