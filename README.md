@@ -75,14 +75,13 @@ class About extends Me
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## 🗂️ Highlight Projects
+<a href="https://github.com/Razetro/discordjs-base-handler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=discordjs-base-handler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Razetro" />
+</a>
+
 <a href="https://github.com/Razetro/Rubicon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Rubicon&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rubicon" />
 </a>
-
-<a href="https://github.com/Razetro/ProbelmAdmin-Moderation-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=ProbelmAdmin-Moderation-Bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Razetro" />
-</a>
-
 
 ## 🎶 Spotify
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcsv2krcbumn2isttz3hm47y5i&cover_image=true&theme=natemoo-re&bar_color=1ed760&bar_color_cover=false)
