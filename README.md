@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+# Hello there!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=razetro.razetro)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -82,6 +82,3 @@ class About extends Me
 <a href="https://github.com/Razetro/Rubicon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Razetro&repo=Rubicon&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rubicon" />
 </a>
-
-## 🎶 Spotify
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jcsv2krcbumn2isttz3hm47y5i&cover_image=true&theme=natemoo-re&bar_color=1ed760&bar_color_cover=false)
